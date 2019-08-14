@@ -1,0 +1,9 @@
+F:\Development\repos\Examples\Katas.NumberNames\bin\Debug\netstandard2.0\Katas.NumberNames.deps.json
+F:\Development\repos\Examples\Katas.NumberNames\bin\Debug\netstandard2.0\Katas.NumberNames.dll
+F:\Development\repos\Examples\Katas.NumberNames\bin\Debug\netstandard2.0\Katas.NumberNames.pdb
+F:\Development\repos\Examples\Katas.NumberNames\obj\Debug\netstandard2.0\Katas.NumberNames.csprojAssemblyReference.cache
+F:\Development\repos\Examples\Katas.NumberNames\obj\Debug\netstandard2.0\Katas.NumberNames.csproj.CoreCompileInputs.cache
+F:\Development\repos\Examples\Katas.NumberNames\obj\Debug\netstandard2.0\Katas.NumberNames.AssemblyInfoInputs.cache
+F:\Development\repos\Examples\Katas.NumberNames\obj\Debug\netstandard2.0\Katas.NumberNames.AssemblyInfo.cs
+F:\Development\repos\Examples\Katas.NumberNames\obj\Debug\netstandard2.0\Katas.NumberNames.dll
+F:\Development\repos\Examples\Katas.NumberNames\obj\Debug\netstandard2.0\Katas.NumberNames.pdb
